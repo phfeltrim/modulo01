@@ -1,0 +1,36 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js init
+
+PATH: 
+  C:\Users\Owner\Desktop\cmder\vendor\conemu-maximus5\ConEmu\Scripts;C:\Users\Owner\Desktop\cmder\vendor\conemu-maximus5;C:\Users\Owner\Desktop\cmder\vendor\conemu-maximus5\ConEmu;C:\Program Files (x86)\Razer Chroma SDK\bin;C:\Program Files\Razer Chroma SDK\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Users\Owner\AppData\Local\Microsoft\WindowsApps;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;C:\Program Files\nodejs\;C:\Program Files (x86)\Yarn\bin\;C:\Users\Owner\AppData\Local\Microsoft\WindowsApps;C:\Users\Owner\AppData\Local\Programs\Microsoft VS Code Insiders\bin;C:\Users\Owner\AppData\Roaming\npm;C:\Users\Owner\AppData\Local\Yarn\bin;C:\Users\Owner\Desktop\cmder\vendor\git-for-windows\cmd;C:\Users\Owner\Desktop\cmder\vendor\git-for-windows\mingw64\bin;C:\Users\Owner\Desktop\cmder\vendor\git-for-windows\usr\bin;C:\Users\Owner\Desktop\cmder\vendor\bin;C:\Users\Owner\Desktop\cmder\bin;C:\Users\Owner\Desktop\cmder
+
+Yarn version: 
+  1.21.1
+
+Node version: 
+  12.14.1
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: canceled
+      at Interface.<anonymous> (C:\Program Files (x86)\Yarn\lib\cli.js:136925:13)
+      at Interface.emit (events.js:223:5)
+      at Interface._ttyWrite (readline.js:885:16)
+      at ReadStream.onkeypress (readline.js:191:10)
+      at ReadStream.emit (events.js:223:5)
+      at emitKeys (internal/readline/utils.js:433:14)
+      at emitKeys.next (<anonymous>)
+      at ReadStream.onData (readline.js:1151:36)
+      at ReadStream.emit (events.js:223:5)
+      at addChunk (_stream_readable.js:309:12)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
